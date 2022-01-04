@@ -12,10 +12,8 @@ This project revolves around the performance of Portuguese students from two dif
 #Importance
 
 With the information gathered, there can make a clear correlation made to the high failure rates
-● There will be a visual description of what causes the students to do poorly and what
-aspects of their lives contribute to these outcomes
-● Gathering multiple attributes will give a more informative insights on what needs to
-change inside and outside of the student school lives
+● There will be a visual description of what causes the students to do poorly and what aspects of their lives contribute to these outcomes
+● Gathering multiple attributes will give a more informative insights on what needs to change inside and outside of the student school lives
 ●  Prediction of what attributes correlate to lower grades
 
 
