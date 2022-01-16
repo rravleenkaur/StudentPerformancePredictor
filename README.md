@@ -18,3 +18,7 @@ With the information gathered, there can make a clear correlation made to the hi
 
 
 Libraries used: Numpy, Pandas Seaborn, Matplotlib, Sklearn
+
+
+
+The modelling was done through looking at linear regression, random forest, and decision tree
