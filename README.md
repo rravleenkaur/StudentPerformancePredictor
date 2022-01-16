@@ -22,3 +22,4 @@ Libraries used: Numpy, Pandas Seaborn, Matplotlib, Sklearn
 
 
 The modelling was done through looking at linear regression, random forest, and decision tree
+Conclusion: Best model : Logistic Regression with all features, no matter scaled or unscaled
